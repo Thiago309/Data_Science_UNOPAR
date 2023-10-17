@@ -1,6 +1,5 @@
 class Dados:
     """permite a criação de uma estrutura para gravar dados"""
-
     def __init__(self):     # O construtor __init__ inicializa a classe Dados com a variavel itens vazia.
         self.itens = []
 
